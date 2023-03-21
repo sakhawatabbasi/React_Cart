@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React_Cart/static/css/main.31d6cfe0.css",
+    "main.js": "/React_Cart/static/js/main.801eca96.js",
+    "static/media/Logo1.jpg": "/React_Cart/static/media/Logo1.5918e9e968a808948218.jpg",
+    "static/media/cart.png": "/React_Cart/static/media/cart.bf0ee6fdad43d4fbfe5f.png",
+    "static/media/pazza.jpeg": "/React_Cart/static/media/pazza.6d210074cc6c5bec5944.jpeg",
+    "static/media/empty-cart.svg": "/React_Cart/static/media/empty-cart.6f665a10428a4870d7fce768d00561b6.svg",
+    "index.html": "/React_Cart/index.html",
+    "main.801eca96.js.map": "/React_Cart/static/js/main.801eca96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.801eca96.js"
+  ]
+}
